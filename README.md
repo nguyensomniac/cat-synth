@@ -1,7 +1,7 @@
 # cat-synth
 A MIDI synthesizer. With cats.
 
-Uses timbre.js to output a modulated synth, controlled by 
+Uses timbre.js to output a modulated synth.
 
 # Usage
 
