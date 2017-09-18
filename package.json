@@ -1,0 +1,22 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack --watch"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "midi": "^0.9.5",
+    "serialport": "^5.0.0",
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3",
+    "three": "^0.87.1",
+    "three-stl-loader": "^1.0.6",
+    "timbre": "https://github.com/nguyensomniac/timbre.js",
+    "underscore": "^1.8.3",
+    "webpack": "^3.6.0"
+  }
+}
